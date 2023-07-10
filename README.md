@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arun8765
 - 👀 I’m interested in AI, cloud computing, Big data, Deep Learning.
-- 🌱 I’m currently Working in Sling media
 - 💞️ I’m looking to collaborate on any community that is friendly towards beginners.
 
 <!---
