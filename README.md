@@ -2,7 +2,7 @@
 
 ### 🚀 AI Engineer | HPC Researcher | M.Tech @ IISc Bangalore
 
-I am a Software Engineer and current M.Tech candidate at the **Indian Institute of Science (IISc)**. My work sits at the intersection of **High-Performance Computing (HPC)** and **Machine Learning Deployment**, with a focus on accelerating complex simulations and optimizing real-time AI pipelines.
+I am a Software Engineer and M.Tech 2025 Graduate at the **Indian Institute of Science (IISc)**. My interests are **High-Performance Computing (HPC)** and **Machine Learning Deployment**, with a focus on accelerating complex simulations and optimizing real-time AI pipelines.
 
 ---
 
@@ -12,7 +12,7 @@ I am a Software Engineer and current M.Tech candidate at the **Indian Institute 
 | :--- | :--- |
 | **Languages** | C++, Python, Java, JavaScript, CUDA, Fortran, Bash |
 | **AI & ML** | PyTorch, TensorFlow, TensorRT, NLP (LSTMs, Transformers) |
-| **Parallel Computing** | MPI, OpenMP, OpenACC, GPU Acceleration |
+| **Parallel Computing** | MPI, OpenMP, OpenACC, CUDA |
 | **Infrastructure** | Docker, Kubernetes, AWS (EC2, S3, SQS), Git |
 | **Backend** | Spring Boot, Akka, Node.js, Microservices |
 
@@ -20,8 +20,8 @@ I am a Software Engineer and current M.Tech candidate at the **Indian Institute 
 
 ### 🔬 Featured Research & Projects
 
-- **[In Progress] Hybrid CPU-GPU Ocean Modeling**: Accelerating the Regional Ocean Modeling System (ROMS) using MPI, OpenMP, and CUDA/OpenACC to solve fluid dynamics equations at scale.
 - **Real-Time AI Analytics**: Migrating offline pipelines to low-latency systems, converting ML models to TensorRT for accelerated GPU inference.
+- **Hybrid CPU-GPU Ocean Modeling**: Accelerating the Regional Ocean Modeling System (ROMS) using MPI, OpenMP, and CUDA/OpenACC to solve fluid dynamics equations at scale.
 - **Distributed Systems**: Developed a high-concurrency Movie Ticket Booking backend using Akka and Spring Boot, managed via Kubernetes.
 - **HPC Algorithms**: Implemented Delta-Stepping SSSP and large-scale sorting (80GB+) using hybrid CPU-GPU memory management.
 
@@ -31,7 +31,7 @@ I am a Software Engineer and current M.Tech candidate at the **Indian Institute 
 
 - 🏆 **GATE CS 2023**: All India Rank **200**
 - 🎓 **IISc Bangalore**: M.Tech in Computational & Data Science
-- 📄 **Published Author**: Research on Cloud-based Placement Management (ICIITCEE 2023)
+- 📄 **Published Author**: "Cloud-based Application for managing placement related information" (ICIITCEE 2023)
 
 ---
 
