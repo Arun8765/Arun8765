@@ -42,9 +42,11 @@ I am a Software Engineer and current M.Tech candidate at the **Indian Institute 
 
 ---
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arun8765&show_icons=true&theme=radical" alt="Arun's GitHub Stats" />
-</p>
+</p> 
+-->
 
 <!---
 - 👋 Hi, I’m @Arun8765
